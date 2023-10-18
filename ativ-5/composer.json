@@ -1,0 +1,10 @@
+{
+    "name": "admin/ativ-5",
+    "type": "slim",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
